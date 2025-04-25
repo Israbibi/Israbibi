@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Israbibi
+- 👋 Hi, I’m @Israbibi from pakistan
 - 👀 I’m interested in fronend
-- 🌱 I’m currently learning comouter science
+- 🌱 I’m currently learning computer science
 - 📫 How to reach me @Buriroisra@gmail.com
 - 😄 Pronouns: her
 - ⚡ Fun fact: i enjoy making websites
